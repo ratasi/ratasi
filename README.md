@@ -7,7 +7,7 @@
 
 
 ```js
-const ratasi = {
+const tarredev = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
