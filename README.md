@@ -7,13 +7,12 @@
 
 
 ```js
-const tarredev = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
+const tarredev = {    
+    askMeAbout: ["app dev", "web dev", "tech", "companies"],
     technologies:{
         backEnd: ["nodejs", "express"],
-        code: ["JavaScript", "Typescript", "HTML", "CSS"],
-        tools: ["React", "Node", "StoryBook", "Styled-Components"],       
+        code: ["JavaScript", "Typescript", "React", "HTML", "CSS"],
+        tools: ["Node", "StoryBook", "Styled-Components", "Tailwind CSS" ],       
         misc: ["Firebase"],
         cms: ["Prestashop", "Wordpress", "Joomla"]
     }
